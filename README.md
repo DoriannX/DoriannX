@@ -2,30 +2,30 @@
 
 ## Présentation
 
-Je suis développeur Unity freelance basé à Talence, en Nouvelle-Aquitaine. Je travaille principalement avec des studios indépendants et des développeurs solo qui ont besoin d'aide technique concrète : correction de bogues, prototypage rapide, ou création d'outils éditeur sur mesure.
+Je suis développeur Unity freelance basé à Talence, en Nouvelle-Aquitaine. Je travaille principalement avec des studios indépendants et des développeurs solo qui ont besoin d'aide technique concrète : correction de bugs, prototypage rapide, ou création d'outils éditeur sur mesure.
 
 Mon approche est simple : comprendre le problème, le reproduire, le corriger proprement, et livrer un correctif prêt à intégrer.
 
 ## Offre principale
 
-**Correction de bogues Unity – Forfait de lancement**
+**Correction de bugs Unity – Forfait de lancement**
 
 - **Prix** : 199 € HT
-- **Périmètre** : 3 bogues reproductibles
+- **Périmètre** : 3 bugs reproductibles
 - **Délai** : 48 à 72 heures
 - **Livrables** :
-  - Analyse et reproduction du bogue
+  - Analyse et reproduction du bug
   - Correction testée
   - Documentation courte
   - Correctif prêt à intégrer (pull request ou patch)
 
 **Ce dont j'ai besoin pour intervenir :**
 
-Un bogue reproductible avec les étapes claires, la version Unity utilisée, et la plateforme cible (Windows, Android, WebGL, etc.).
+Un bug reproductible avec les étapes claires, la version Unity utilisée, et la plateforme cible (Windows, Android, WebGL, etc.).
 
 **Ce qui n'est pas inclus :**
 
-Les bogues non reproductibles, les refontes complètes d'architecture, ou les demandes de features supplémentaires.
+Les bugs non reproductibles, les refontes complètes d'architecture, ou les demandes de features supplémentaires.
 
 ## Projets et preuves
 
@@ -54,7 +54,7 @@ Les bogues non reproductibles, les refontes complètes d'architecture, ou les de
 
 **Email :** [theodor.xav@gmail.com](mailto:theodor.xav@gmail.com)
 
-Pour une demande de correction ou un devis, décrivez votre bogue, votre version Unity, et un moyen de le reproduire. Je reviens vers vous sous 24 heures.
+Pour une demande de correction ou un devis, décrivez votre bug, votre version Unity, et un moyen de le reproduire. Je reviens vers vous sous 24 heures.
 
 **Liens utiles :**
 
