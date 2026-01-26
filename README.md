@@ -10,8 +10,6 @@
 
 I'm a freelance Unity developer based in Talence, Nouvelle-Aquitaine. I primarily work with independent studios and solo developers who need technical assistance with their Unity projects.
 
-My approach is straightforward: understand the issue, reproduce it, fix it cleanly, and deliver a production-ready patch.
-
 ### Core Services
 
 **Unity Bug Fixing, Rapid Prototyping, and Optimization**
@@ -73,8 +71,6 @@ For any inquiries or quotes, please describe your project, your Unity version, a
 ### Présentation
 
 Je suis développeur Unity freelance basé à Talence, en Nouvelle-Aquitaine. Je travaille principalement avec des studios indépendants et des développeurs solo qui ont besoin d'aide technique pour leurs projets Unity.
-
-Mon approche est simple : comprendre le problème, le reproduire, le corriger proprement, et livrer un correctif prêt à intégrer.
 
 ### Offre principale
 
