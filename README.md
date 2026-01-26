@@ -8,11 +8,9 @@ Mon approche est simple : comprendre le problème, le reproduire, le corriger pr
 
 ## Offre principale
 
-**Correction de bugs Unity – Forfait de lancement**
+**Correction de bugs Unity, prototypage rapide, optimisation**
 
-- Prix : 199 € HT
-- Périmètre : 3 bugs reproductibles
-- Délai : 48 à 72 heures
+- Tarif horaire : 45 à 60 € HT (selon complexité)
 - Livrables :
   - Analyse et reproduction du bug
   - Correction testée
@@ -21,11 +19,11 @@ Mon approche est simple : comprendre le problème, le reproduire, le corriger pr
 
 **Ce dont j'ai besoin pour intervenir :**
 
-Un bug reproductible avec les étapes claires, la version Unity utilisée, et la plateforme cible (Windows, Android, WebGL, etc.).
-
-**Ce qui n'est pas inclus :**
-
-Les bugs non reproductibles, les refontes complètes d'architecture, ou les demandes de features supplémentaires.
+- Version Unity
+- Plateforme cible
+- Description du bug ou du besoin
+- Étapes pour reproduire (ou vidéo)
+- Accès au code si nécessaire
 
 ## Projets et preuves
 
