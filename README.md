@@ -10,10 +10,10 @@ Mon approche est simple : comprendre le problème, le reproduire, le corriger pr
 
 **Correction de bugs Unity – Forfait de lancement**
 
-- **Prix** : 199 € HT
-- **Périmètre** : 3 bugs reproductibles
-- **Délai** : 48 à 72 heures
-- **Livrables** :
+- Prix : 199 € HT
+- Périmètre : 3 bugs reproductibles
+- Délai : 48 à 72 heures
+- Livrables :
   - Analyse et reproduction du bug
   - Correction testée
   - Documentation courte
