@@ -1,12 +1,82 @@
-# Doriann Xavier – Développeur Unity freelance
+# Doriann Xavier – Unity Developer
 
-## Présentation
+🇬🇧 **English below** | 🇫🇷 **Français en bas**
 
-Je suis développeur Unity freelance basé à Talence, en Nouvelle-Aquitaine. Je travaille principalement avec des studios indépendants et des développeurs solo qui ont besoin d'aide technique concrète : correction de bugs, prototypage rapide, ou création d'outils éditeur sur mesure.
+---
+
+## 🇬🇧 English Version
+
+### About Me
+
+I'm a freelance Unity developer based in Talence, Nouvelle-Aquitaine. I primarily work with independent studios and solo developers who need technical assistance with their Unity projects.
+
+My approach is straightforward: understand the issue, reproduce it, fix it cleanly, and deliver a production-ready patch.
+
+### Core Services
+
+**Unity Bug Fixing, Rapid Prototyping, and Optimization**
+
+- Hourly rate: €45–60 (excl. VAT, depending on complexity)
+- Deliverables:
+  - Bug analysis and reproduction
+  - Tested fix
+  - Brief documentation
+  - Production-ready patch (pull request or patch file)
+
+**What I need to get started:**
+
+- Unity version
+- Target platform
+- Bug description or feature requirements
+- Steps to reproduce (or video)
+- Code access if necessary
+
+### Projects and Portfolio
+
+- **[God-game-Q1](https://github.com/DoriannX/God-game-Q1)**: Showcase repository demonstrating how I structure Unity projects (scripts, gameplay systems, tools).
+- **[Notion Portfolio](https://bit.ly/doriann-xavier)**: Detailed overview of my projects, skills, and technical background.
+- **[Itch.io – h0xxe](https://h0xxe.itch.io)**: My playable prototypes and Unity experiments.
+
+**Technical Highlights:**
+
+- Debugging complex gameplay systems (state machines, events, interactions)
+- Integration and configuration of Unity packages (Cinemachine, Input System, etc.)
+- Custom editor tools to accelerate workflow
+
+### Skills
+
+- Unity (2D / 3D)
+- C#
+- Git & GitHub
+- Debugging and profiling
+- Optimization (performance, memory)
+- Gameplay systems (FSM, events, inventory systems)
+- UI/UX in Unity
+- Editor tools (ScriptableObjects, Custom Inspectors)
+
+### Contact
+
+**Email:** [theodor.xav@gmail.com](mailto:theodor.xav@gmail.com)
+
+For any inquiries or quotes, please describe your project, your Unity version, and, if applicable, a method for reproducing the bug. I'll get back to you within 24 hours.
+
+**Useful Links:**
+
+- [Portfolio](https://bit.ly/doriann-xavier)
+- [Showcase Repository](https://github.com/DoriannX/God-game-Q1)
+- [Itch.io](https://h0xxe.itch.io)
+
+---
+
+## 🇫🇷 Version Française
+
+### Présentation
+
+Je suis développeur Unity freelance basé à Talence, en Nouvelle-Aquitaine. Je travaille principalement avec des studios indépendants et des développeurs solo qui ont besoin d'aide technique pour leurs projets Unity.
 
 Mon approche est simple : comprendre le problème, le reproduire, le corriger proprement, et livrer un correctif prêt à intégrer.
 
-## Offre principale
+### Offre principale
 
 **Correction de bugs Unity, prototypage rapide, optimisation**
 
@@ -25,7 +95,7 @@ Mon approche est simple : comprendre le problème, le reproduire, le corriger pr
 - Étapes pour reproduire (ou vidéo)
 - Accès au code si nécessaire
 
-## Projets et preuves
+### Projets et preuves
 
 - **[God-game-Q1](https://github.com/DoriannX/God-game-Q1)** : Dépôt vitrine qui montre ma façon de structurer un projet Unity (scripts, systèmes de gameplay, outils).
 - **[Portfolio Notion](https://bit.ly/doriann-xavier)** : Présentation détaillée de mes projets, compétences, et parcours technique.
@@ -37,7 +107,7 @@ Mon approche est simple : comprendre le problème, le reproduire, le corriger pr
 - Intégration et configuration de packages Unity (Cinemachine, Input System, etc.)
 - Création d'outils éditeur custom pour accélérer le workflow
 
-## Compétences
+### Compétences
 
 - Unity (2D / 3D)
 - C#
@@ -48,11 +118,11 @@ Mon approche est simple : comprendre le problème, le reproduire, le corriger pr
 - UI / UX dans Unity
 - Outils éditeur (ScriptableObjects, Custom Inspectors)
 
-## Contact
+### Contact
 
 **Email :** [theodor.xav@gmail.com](mailto:theodor.xav@gmail.com)
 
-Pour une demande de correction ou un devis, décrivez votre bug, votre version Unity, et un moyen de le reproduire. Je reviens vers vous sous 24 heures.
+Pour toute demande ou un devis, décrivez votre projet, votre version Unity, et dans le cas échéant, un moyen de reproduire le bug. Je reviens vers vous sous 24 heures.
 
 **Liens utiles :**
 
