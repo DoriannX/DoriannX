@@ -40,7 +40,7 @@ Mon atout : apprendre une stack vite et livrer. Je n'ai pas encore tout fait, ma
 ### Projets
 
 **Web**
-- **cf2i-mini** : thème WordPress sur-mesure (PHP, hooks, *the Loop*, filtres) tournant en **Docker** (WP + MySQL). *(repo en cours de publication)*
+- **[cf2i-mini](https://github.com/DoriannX/cf2i-mini)** : thème WordPress sur-mesure (PHP, hooks, *the Loop*, filtres) tournant en **Docker** (WP + MySQL).
 - **[portfolio](https://github.com/DoriannX/portfolio)** : mon site personnel.
 - **[Horace](https://github.com/DoriannX/Horace)** : site vitrine client.
 - **[gueydon](https://github.com/DoriannX/gueydon)** : site vitrine client (boucherie).
@@ -90,7 +90,7 @@ My edge: learning a stack fast and shipping. I haven't done everything yet, but 
 ### Projects
 
 **Web**
-- **cf2i-mini**: custom WordPress theme (PHP, hooks, *the Loop*, filters) running in **Docker** (WP + MySQL). *(repo coming soon)*
+- **[cf2i-mini](https://github.com/DoriannX/cf2i-mini)**: custom WordPress theme (PHP, hooks, *the Loop*, filters) running in **Docker** (WP + MySQL).
 - **[portfolio](https://github.com/DoriannX/portfolio)**: my personal website.
 - **[Horace](https://github.com/DoriannX/Horace)**: client website.
 - **[gueydon](https://github.com/DoriannX/gueydon)**: client website (butcher shop).
