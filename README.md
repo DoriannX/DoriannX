@@ -1,127 +1,105 @@
-# Doriann Xavier – Unity Developer
+# Doriann Xavier, Développeur Full-Stack Web
 
-🇬🇧 **English below** | 🇫🇷 **Français en bas**
+🇫🇷 **Français** | 🇬🇧 **English below**
 
----
-
-## 🇬🇧 English Version
-
-### About Me
-
-I'm a freelance Unity developer based in Talence, Nouvelle-Aquitaine. I primarily work with independent studios and solo developers who need technical assistance with their Unity projects.
-
-### Core Services
-
-**Unity Bug Fixing, Rapid Prototyping, and Optimization**
-
-- Hourly rate: €45–60 (excl. VAT, depending on complexity)
-- Deliverables:
-  - Bug analysis and reproduction
-  - Tested fix
-  - Brief documentation
-  - Production-ready patch (pull request or patch file)
-
-**What I need to get started:**
-
-- Unity version
-- Target platform
-- Bug description or feature requirements
-- Steps to reproduce (or video)
-- Code access if necessary
-
-### Projects and Portfolio
-
-- **[God-game-Q1](https://github.com/DoriannX/God-game-Q1)**: Showcase repository demonstrating how I structure Unity projects (scripts, gameplay systems, tools).
-- **[Notion Portfolio](https://bit.ly/doriann-xavier)**: Detailed overview of my projects, skills, and technical background.
-- **[Itch.io – h0xxe](https://h0xxe.itch.io)**: My playable prototypes and Unity experiments.
-
-**Technical Highlights:**
-
-- Debugging complex gameplay systems (state machines, events, interactions)
-- Integration and configuration of Unity packages (Cinemachine, Input System, etc.)
-- Custom editor tools to accelerate workflow
-
-### Skills
-
-- Unity (2D / 3D)
-- C#
-- Git & GitHub
-- Debugging and profiling
-- Optimization (performance, memory)
-- Gameplay systems (FSM, events, inventory systems)
-- UI/UX in Unity
-- Editor tools (ScriptableObjects, Custom Inspectors)
-
-### Contact
-
-**Email:** [theodor.xav@gmail.com](mailto:theodor.xav@gmail.com)
-
-For any inquiries or quotes, please describe your project, your Unity version, and, if applicable, a method for reproducing the bug. I'll get back to you within 24 hours.
-
-**Useful Links:**
-
-- [Portfolio](https://bit.ly/doriann-xavier)
-- [Showcase Repository](https://github.com/DoriannX/God-game-Q1)
-- [Itch.io](https://h0xxe.itch.io)
+> En recherche d'une **alternance développeur web full-stack**, rentrée 2026 (Bordeaux / Nouvelle-Aquitaine).
 
 ---
 
-## 🇫🇷 Version Française
+## 🇫🇷 Français
 
-### Présentation
+### À propos
 
-Je suis développeur Unity freelance basé à Talence, en Nouvelle-Aquitaine. Je travaille principalement avec des studios indépendants et des développeurs solo qui ont besoin d'aide technique pour leurs projets Unity.
+Développeur full-stack orienté **web**, avec une solide base en **C# / .NET**. Je construis des sites et des applications, surtout avec **WordPress** sur-mesure (thèmes, plugins, PHP) et du **front** en JavaScript, HTML et CSS, et j'intègre l'**IA dans mon workflow de dev** au quotidien (Claude, agents, clés API, automatisation).
 
-### Offre principale
+Actuellement en formation, je cherche une **alternance dev web full-stack** pour la rentrée 2026. Ouvert également à des missions **freelance web**.
 
-**Correction de bugs Unity, prototypage rapide, optimisation**
-
-- Tarif horaire : 45 à 60 € HT (selon complexité)
-- Livrables :
-  - Analyse et reproduction du bug
-  - Correction testée
-  - Documentation courte
-  - Correctif prêt à intégrer (pull request ou patch)
-
-**Ce dont j'ai besoin pour intervenir :**
-
-- Version Unity
-- Plateforme cible
-- Description du bug ou du besoin
-- Étapes pour reproduire (ou vidéo)
-- Accès au code si nécessaire
-
-### Projets et preuves
-
-- **[God-game-Q1](https://github.com/DoriannX/God-game-Q1)** : Dépôt vitrine qui montre ma façon de structurer un projet Unity (scripts, systèmes de gameplay, outils).
-- **[Portfolio Notion](https://bit.ly/doriann-xavier)** : Présentation détaillée de mes projets, compétences, et parcours technique.
-- **[Itch.io – h0xxe](https://h0xxe.itch.io)** : Mes prototypes jouables et expérimentations Unity.
-
-**Highlights techniques :**
-
-- Débogage de systèmes de gameplay complexes (states machines, événements, interactions)
-- Intégration et configuration de packages Unity (Cinemachine, Input System, etc.)
-- Création d'outils éditeur custom pour accélérer le workflow
+Mon atout : apprendre une stack vite et livrer. Je n'ai pas encore tout fait, mais je monte en compétence en jours, pas en mois, et ce profil en est la preuve.
 
 ### Compétences
 
+**Web**
+- PHP, WordPress (thèmes, plugins, hooks, *the Loop*)
+- JavaScript
+- HTML, CSS / SCSS
+- SQL / MySQL
+- Docker, Git & GitHub
+
+**C# / .NET**
+- C#, .NET, programmation orientée objet
+- Architecture logicielle : machines à états (FSM), systèmes événementiels, design patterns
+- Conception d'outils et de composants réutilisables
+- Débogage, profilage, optimisation (performance, mémoire)
 - Unity (2D / 3D)
-- C#
-- Git & GitHub
-- Débogage et profilage
-- Optimisation (performance, mémoire)
-- Systèmes de gameplay (FSM, événements, inventaires)
-- UI / UX dans Unity
-- Outils éditeur (ScriptableObjects, Custom Inspectors)
+
+**Méthode**
+- Rigueur, code propre et maintenable, souci de l'architecture
+- Développement assisté par **IA** (Claude, agents, intégration d'API, automatisation)
+- Prototypage rapide, résolution de problèmes
+
+### Projets
+
+**Web**
+- **cf2i-mini** : thème WordPress sur-mesure (PHP, hooks, *the Loop*, filtres) tournant en **Docker** (WP + MySQL). *(repo en cours de publication)*
+- **[portfolio](https://github.com/DoriannX/portfolio)** : mon site personnel.
+- **[Horace](https://github.com/DoriannX/Horace)** : site vitrine client.
+- **[gueydon](https://github.com/DoriannX/gueydon)** : site vitrine client (boucherie).
+- **[DimitriChapelCoach](https://github.com/DoriannX/DimitriChapelCoach)** : site vitrine client.
+
+**Jeu vidéo**
+- **[God-game-Q1](https://github.com/DoriannX/God-game-Q1)** : dépôt vitrine, structuration d'un projet Unity (scripts, systèmes, outils).
+- **itch.io (h0xxe)** : prototypes jouables. https://h0xxe.itch.io
 
 ### Contact
+- Email : theodor.xav@gmail.com
+- Localisation : Talence, Nouvelle-Aquitaine
 
-**Email :** [theodor.xav@gmail.com](mailto:theodor.xav@gmail.com)
+---
 
-Pour toute demande ou un devis, décrivez votre projet, votre version Unity, et dans le cas échéant, un moyen de reproduire le bug. Je reviens vers vous sous 24 heures.
+## 🇬🇧 English
 
-**Liens utiles :**
+### About Me
 
-- [Portfolio](https://bit.ly/doriann-xavier)
-- [Dépôt vitrine](https://github.com/DoriannX/God-game-Q1)
-- [Itch.io](https://h0xxe.itch.io)
+Web-focused **full-stack developer** with a strong **C# / .NET** background. I build websites and apps, mostly with custom **WordPress** (themes, plugins, PHP) and **front-end** work in JavaScript, HTML and CSS, and I bring **AI into my dev workflow** daily (Claude, agents, API keys, automation).
+
+Currently in training, looking for a **full-stack web apprenticeship** ("alternance") for autumn 2026. Also open to **freelance web** projects.
+
+My edge: learning a stack fast and shipping. I haven't done everything yet, but I get up to speed in days, not months, and this profile is the proof.
+
+### Skills
+
+**Web**
+- PHP, WordPress (themes, plugins, hooks, *the Loop*)
+- JavaScript
+- HTML, CSS / SCSS
+- SQL / MySQL
+- Docker, Git & GitHub
+
+**C# / .NET**
+- C#, .NET, object-oriented programming
+- Software architecture: state machines (FSM), event-driven systems, design patterns
+- Reusable tools and components
+- Debugging, profiling, optimization (performance, memory)
+- Unity (2D / 3D)
+
+**How I work**
+- Rigor, clean and maintainable code, attention to architecture
+- **AI-assisted development** (Claude, agents, API integration, automation)
+- Rapid prototyping, problem solving
+
+### Projects
+
+**Web**
+- **cf2i-mini**: custom WordPress theme (PHP, hooks, *the Loop*, filters) running in **Docker** (WP + MySQL). *(repo coming soon)*
+- **[portfolio](https://github.com/DoriannX/portfolio)**: my personal website.
+- **[Horace](https://github.com/DoriannX/Horace)**: client website.
+- **[gueydon](https://github.com/DoriannX/gueydon)**: client website (butcher shop).
+- **[DimitriChapelCoach](https://github.com/DoriannX/DimitriChapelCoach)**: client website.
+
+**Game dev**
+- **[God-game-Q1](https://github.com/DoriannX/God-game-Q1)**: showcase repo, how I structure a Unity project (scripts, systems, tools).
+- **itch.io (h0xxe)**: playable prototypes. https://h0xxe.itch.io
+
+### Contact
+- Email: theodor.xav@gmail.com
+- Location: Talence, Nouvelle-Aquitaine
